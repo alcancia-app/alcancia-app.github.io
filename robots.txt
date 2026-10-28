@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alcancia-app.github.io/alcancia/sitemap.xml
